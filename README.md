@@ -10,6 +10,11 @@ News: https://liveuamap.com/
 
 Tracking Russia losses: https://datastudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/IzToC
 
+Sanctions tracker: https://fight4ukraine.org/
+
+Companies in Russia tracker: https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
+
+
 
 # Flight trackers
 
@@ -39,5 +44,5 @@ https://nagix.github.io/ukraine-livecams
 
 # Radiation checker
 
-
+Radiation map: https://www.saveecobot.com/en/radiation-maps
 
