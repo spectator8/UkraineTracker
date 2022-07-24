@@ -4,9 +4,9 @@ Links for tracking situation in Ukraine
 
 # Information streams
 
-https://start.me/p/lLBdE6/ukraine-crisis-tracker
+News: https://start.me/p/lLBdE6/ukraine-crisis-tracker
 
-https://liveuamap.com/
+News: https://liveuamap.com/
 
 Tracking Russia losses: https://datastudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/IzToC
 
