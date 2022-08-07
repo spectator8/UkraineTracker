@@ -58,5 +58,5 @@ https://nagix.github.io/ukraine-livecams
 
 ## Radiation checker
 
-Radiation map: https://www.saveecobot.com/en/radiation-maps
+https://www.saveecobot.com/en/radiation-maps
 
