@@ -34,6 +34,11 @@ https://vadimklimenko.com/map/
 
 https://flightradar24.com/
 
+https://planefinder.net/
+
+https://www.radarbox.com/
+
+https://flightaware.com/
 
 ## Ship trackers
 
