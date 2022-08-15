@@ -61,6 +61,14 @@ https://apps.sentinel-hub.com/eo-browser
 
 https://nagix.github.io/ukraine-livecams
 
+## YouTube streams
+
+https://www.youtube.com/watch?v=ePkxotwUCfY
+
+https://www.youtube.com/watch?v=p0Qa5wP9EiQ
+
+https://www.youtube.com/watch?v=11Rs5Xc78zQ
+
 ## Radiation checker
 
 https://www.saveecobot.com/en/radiation-maps
