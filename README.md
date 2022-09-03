@@ -35,6 +35,10 @@ Webcam on the beach of the complex «Our Sail», Kacha, Sevastopol, Crimea: http
 PTZ webcam of the beach complex «Paluba», Novofedorovka, Crimea:
 http://cam.pilot-net.ru/ip-cam/ipcam-3/playerjs.html?file=index.m3u8&autoplay=1
 
+Webcam on General Tolstikov Street, Kaliningrad, Russia: https://www.geocam.ru/en/online/tolstikova-17/
+
+
+
 
 
 
