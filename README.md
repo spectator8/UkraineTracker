@@ -20,6 +20,28 @@ Companies in Russia tracker: https://som.yale.edu/story/2022/over-1000-companies
 
 Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
 
+## Live cameras
+
+RU cams site: https://www.geocam.ru/en/
+
+Crimea cams: https://www.geocam.ru/en/in/crimea/?map
+
+Crimea cams: https://sevstar.net/oko/
+
+Center of the Yalta Promenade, Yalta, Crimea: https://www.youtube.com/watch?v=Hgouvz1Jlfw
+
+Webcam on the beach of the complex «Our Sail», Kacha, Sevastopol, Crimea: https://www.geocam.ru/en/online/nash-parus/
+
+PTZ webcam of the beach complex «Paluba», Novofedorovka, Crimea:
+http://cam.pilot-net.ru/ip-cam/ipcam-3/playerjs.html?file=index.m3u8&autoplay=1
+
+
+
+
+
+
+
+
 
 ## Air alerts
 
