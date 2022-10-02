@@ -76,6 +76,8 @@ https://www.vesselfinder.com/
 
 https://www.marinetraffic.com/
 
+https://universe.fleetmon.com/explorer/ /free registration needed/
+
 
 ## Fire trackers
 
