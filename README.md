@@ -108,3 +108,12 @@ https://www.youtube.com/watch?v=11Rs5Xc78zQ
 
 https://www.saveecobot.com/en/radiation-maps
 
+## Submarine cable map
+
+https://www.submarinecablemap.com
+
+## Global energy monitor
+
+https://globalenergymonitor.org
+
+Europe gas tracker: https://globalenergymonitor.org/projects/europe-gas-tracker/tracker-map
