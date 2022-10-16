@@ -41,15 +41,6 @@ Webcam on General Tolstikov Street, Kaliningrad, Russia: https://www.geocam.ru/e
 
 UA webcams: https://webcam.scs.com.ua/
 
-
-
-
-
-
-
-
-
-
 ## Air alerts
 
 https://alerts.in.ua/
@@ -72,6 +63,9 @@ https://flightaware.com/
 ## Military flights tracker
 
 https://www.ads-b.nl/
+
+## Military tracker
+https://www.itamilradar.com/
 
 ## Ship trackers
 
