@@ -117,3 +117,5 @@ https://www.submarinecablemap.com
 https://globalenergymonitor.org
 
 Europe gas tracker: https://globalenergymonitor.org/projects/europe-gas-tracker/tracker-map
+
+Global gas tracker: https://globalenergymonitor.org/projects/global-gas-infrastructure-tracker/tracker
