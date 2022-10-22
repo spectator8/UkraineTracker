@@ -6,6 +6,8 @@ Links for tracking situation in Ukraine
 
 UA Armyinform: https://armyinform.com.ua/category/news/
 
+UA inform: https://www.ukrinform.ua/
+
 Live news: https://start.me/p/lLBdE6/ukraine-crisis-tracker
 
 Live news: https://liveuamap.com/
