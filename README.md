@@ -43,6 +43,8 @@ Webcam on General Tolstikov Street, Kaliningrad, Russia: https://www.geocam.ru/e
 
 UA webcams: https://webcam.scs.com.ua/
 
+Webcams: https://nagix.github.io/ukraine-livecams 
+
 ## Air alerts
 
 https://alerts.in.ua/
@@ -87,10 +89,6 @@ https://firms.modaps.eosdis.nasa.gov/map/
 
 https://apps.sentinel-hub.com/eo-browser
 
-
-## Live cameras
-
-https://nagix.github.io/ukraine-livecams
 
 ## YouTube streams
 
