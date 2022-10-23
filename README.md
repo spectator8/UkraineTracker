@@ -24,6 +24,11 @@ Companies in Russia tracker: https://som.yale.edu/story/2022/over-1000-companies
 
 Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
 
+## Internet outages:
+
+Global map: https://outage.ant.isi.edu/
+
+
 ## Live cameras
 
 RU cams site: https://www.geocam.ru/en/
