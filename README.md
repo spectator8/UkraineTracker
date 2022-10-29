@@ -4,6 +4,8 @@ Links for tracking situation in Ukraine
 
 ## Information streams
 
+The Institute for the Study of War: https://www.understandingwar.org/
+
 UA Armyinform: https://armyinform.com.ua/category/news/
 
 UA inform: https://www.ukrinform.ua/
