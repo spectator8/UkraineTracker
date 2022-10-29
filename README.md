@@ -33,6 +33,8 @@ Global map: https://outage.ant.isi.edu/
 
 ## Live cameras
 
+World cams: https://tv.ivideon.com/map
+
 RU cams site: https://www.geocam.ru/en/
 
 Crimea cams: https://www.geocam.ru/en/in/crimea/?map
