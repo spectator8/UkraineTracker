@@ -18,10 +18,6 @@ Live news: https://maphub.net/Cen4infoRes/russian-ukraine-monitor
 
 Tracking Russia losses: https://datastudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/IzToC
 
-Sanctions tracker: https://fight4ukraine.org/
-
-Sanctions tracker: https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/ 
-
 Companies in Russia tracker: https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
 
 Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
@@ -29,6 +25,14 @@ Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps
 ## Internet outages:
 
 Global map: https://outage.ant.isi.edu/
+
+## Sanctions
+
+https://fight4ukraine.org/
+
+https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/ 
+
+https://www.opensanctions.org/
 
 
 ## Live cameras
