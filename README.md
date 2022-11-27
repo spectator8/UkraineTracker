@@ -104,13 +104,9 @@ https://firms.modaps.eosdis.nasa.gov/map/
 https://apps.sentinel-hub.com/eo-browser
 
 
-## YouTube streams
+## YouTube live stream
 
-https://www.youtube.com/watch?v=ePkxotwUCfY
-
-https://www.youtube.com/watch?v=p0Qa5wP9EiQ
-
-https://www.youtube.com/watch?v=11Rs5Xc78zQ
+https://www.youtube.com/watch?v=e2gC37ILQmk
 
 ## Radiation checker
 
