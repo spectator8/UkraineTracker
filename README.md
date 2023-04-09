@@ -30,11 +30,17 @@ Live news: https://liveuamap.com/
 
 Live news: https://maphub.net/Cen4infoRes/russian-ukraine-monitor
 
-Tracking Russia losses: https://datastudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/IzToC
-
 Companies in Russia tracker: https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
 
 Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
+
+## Tracking losses
+
+Russia: https://datastudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/IzToC
+
+Russia: https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html
+
+Ukraine: https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-ukrainian.html
 
 ## Internet outages:
 
