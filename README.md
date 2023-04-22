@@ -42,6 +42,60 @@ Russia: https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equip
 
 Ukraine: https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-ukrainian.html
 
+## Maps
+
+Russian (former opposition to Putin)
+https://readovka.news/
+
+Chinese
+https://weibo.com/6589094297
+
+Singapore
+https://defensepoliticsasia.com/ukraine/
+
+Swiss
+https://uawardata.com/
+
+Finnish
+https://scribblemaps.com/maps/view/id/091194
+
+French (official)
+https://nitter.snopyta.org/Armees_Gouv
+
+Wikipedia
+https://en.wikipedia.org/wiki/File:2022_Russian_invasion_of_Ukraine.svg
+https://en.wikipedia.org/wiki/File:Map_of_the_war_in_Donbass.svg
+
+British (official)
+https://nitter.snopyta.org/DefenceHQ
+
+American (neocons)
+https://www.understandingwar.org/
+
+Ukrainian
+https://liveuamap.com/
+
+Troops (suspended for being too accurate)
+https://dragon-first-1.livejournal.com/
+
+Troops (alternative)
+https://nitter.snopyta.org/JominiW
+
+Roads
+https://nitter.snopyta.org/Nrg8000
+
+Air raid alarms
+https://alertmap.ru
+
+More Russian maps
+https://geoworld.space/ukraine/
+https://t.me/s/regnum_na
+https://t.me/s/riafan_everywhere
+https://opermap.mash.ru/
+https://lostarmour.info/map
+https://t.me/s/NabrezhnyeIntel
+
+
 ## Internet outages:
 
 Global map: https://outage.ant.isi.edu/
