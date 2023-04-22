@@ -72,8 +72,6 @@ https://nitter.snopyta.org/DefenceHQ
 American (neocons)
 https://www.understandingwar.org/
 
-Ukrainian
-https://liveuamap.com/
 
 Troops (suspended for being too accurate)
 https://dragon-first-1.livejournal.com/
@@ -83,9 +81,6 @@ https://nitter.snopyta.org/JominiW
 
 Roads
 https://nitter.snopyta.org/Nrg8000
-
-Air raid alarms
-https://alertmap.ru
 
 More Russian maps
 https://geoworld.space/ukraine/
