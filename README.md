@@ -34,6 +34,10 @@ Companies in Russia tracker: https://som.yale.edu/story/2022/over-1000-companies
 
 Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
 
+## GPS interference map
+
+Daily maps of GPS interference: https://gpsjam.org
+
 ## Tracking losses
 
 Russia: https://datastudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/IzToC
