@@ -6,5 +6,4 @@ Links for tracking situation in Ukraine
 
 **Last update**: 10.06.2023
 
-
-https://github.com/spectator8/UkraineTracker/blob/main/Links
+https://github.com/spectator8/UkraineTracker/blob/main/List%20of%20links/Links
