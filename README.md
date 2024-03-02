@@ -16,6 +16,8 @@ Map: https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV&
 
 Status map: https://deepstatemap.live/
 
+Visually confirmed things: https://geoconfirmed.org/ukraine
+
 Bellingcat news: https://ukraine.bellingcat.com/
 
 The Institute for the Study of War: https://www.understandingwar.org/
