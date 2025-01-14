@@ -20,7 +20,7 @@ Companies in Russia tracker: https://som.yale.edu/story/2022/over-1000-companies
 
 Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
 
-The Institute for the Study of War: https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-13-2025
+The Institute for the Study of War: https://www.understandingwar.org/backgrounder/ukraine-conflict-updates
 
 Military Summary project - TG with daily YT posts: https://t.me/SvodkiFrontov
 
