@@ -22,7 +22,16 @@ Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps
 
 The Institute for the Study of War: https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-13-2025
 
+Military Summary project - TG with daily YT posts: https://t.me/SvodkiFrontov
+Military Summary project YT: https://youtube.com/@militarysummary
+
 ## Maps
+
+UAControlMap: https://uacontrolmap.com/map-viewer/
+
+UAControlMap: https://google.com/maps/d/u/0/viewer?mid=1xPxgT8LtUjuspSOGHJc2VzA5O5jWMTE
+
+Military Summary project: https://militarysummary.com/#/map
 
 The Institute for the Study of War: https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375
 
@@ -87,7 +96,6 @@ https://geoworld.space/ukraine/
 https://t.me/s/regnum_na
 https://t.me/s/riafan_everywhere
 https://opermap.mash.ru/
-https://lostarmour.info/map
 https://t.me/s/NabrezhnyeIntel
 
 
