@@ -26,7 +26,7 @@ The Institute for the Study of War: https://understandingwar.org/backgrounder/ru
 
 The Institute for the Study of War: https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375
 
-The Institute for the Study of War: https://understandingwar.maps.arcgis.com/apps/instant/3dviewer/index.html
+The Institute for the Study of War: https://understandingwar.maps.arcgis.com/apps/instant/3dviewer/index.html?appid=1602762dbcde419bb957dea358449580
 
 Visually confirmed things: https://geoconfirmed.org/ukraine
 
