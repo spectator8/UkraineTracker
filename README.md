@@ -8,8 +8,6 @@ Links for tracking situation in Ukraine
 
 Bellingcat news: https://ukraine.bellingcat.com/
 
-The Institute for the Study of War: https://www.understandingwar.org/
-
 UA Armyinform: https://armyinform.com.ua/category/news/
 
 UA inform: https://www.ukrinform.ua/
@@ -22,7 +20,13 @@ Companies in Russia tracker: https://som.yale.edu/story/2022/over-1000-companies
 
 Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
 
+The Institute for the Study of War: https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-13-2025
+
 ## Maps
+
+The Institute for the Study of War: https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375
+
+The Institute for the Study of War: https://understandingwar.maps.arcgis.com/apps/instant/3dviewer/index.html?appid=1602762dbcde419bb957dea358449580 https://pic.x.com/sCRSBL14Ie
 
 Visually confirmed things: https://geoconfirmed.org/ukraine
 
