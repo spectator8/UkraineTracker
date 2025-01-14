@@ -1,22 +1,10 @@
 # Ukraine Situation Tracker
 
+**Latest update: 14/01/2025**
+
 Links for tracking situation in Ukraine
 
 ## Information streams
-
-Map: https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375
-
-Map: https://lostarmour.info/map
-
-Map: https://uawardata.com/
-
-Map: https://www.google.com/maps/d/u/0/viewer?mid=1lscRK6ehG0l2V-XvJ16nsyblMsQ&hl=en_US&ll=48.73083882959489%2C38.09417853913959&z=11
-
-Map: https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV&ll=47.9443760472777%2C35.18634928482012&z=6
-
-Status map: https://deepstatemap.live/
-
-Visually confirmed things: https://geoconfirmed.org/ukraine
 
 Bellingcat news: https://ukraine.bellingcat.com/
 
@@ -28,27 +16,29 @@ UA inform: https://www.ukrinform.ua/
 
 Live news: https://start.me/p/lLBdE6/ukraine-crisis-tracker
 
-Live news: https://liveuamap.com/
-
 Live news: https://maphub.net/Cen4infoRes/russian-ukraine-monitor
 
 Companies in Russia tracker: https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
 
 Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
 
-## GPS interference map
-
-Daily maps of GPS interference: https://gpsjam.org
-
-## Tracking losses
-
-Russia: https://datastudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/IzToC
-
-Russia: https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html
-
-Ukraine: https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-ukrainian.html
-
 ## Maps
+
+Visually confirmed things: https://geoconfirmed.org/ukraine
+
+https://liveuamap.com/
+
+https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375
+
+https://lostarmour.info/map
+
+https://uawardata.com/
+
+https://www.google.com/maps/d/u/0/viewer?mid=1lscRK6ehG0l2V-XvJ16nsyblMsQ&hl=en_US&ll=48.73083882959489%2C38.09417853913959&z=11
+
+https://www.google.com/maps/d/viewer?mid=1V8NzjQkzMOhpuLhkktbiKgodOQ27X6IV&ll=47.9443760472777%2C35.18634928482012&z=6
+
+https://deepstatemap.live/
 
 Russian (former opposition to Putin)
 https://readovka.news/
@@ -95,6 +85,19 @@ https://t.me/s/riafan_everywhere
 https://opermap.mash.ru/
 https://lostarmour.info/map
 https://t.me/s/NabrezhnyeIntel
+
+
+## GPS interference map
+
+Daily maps of GPS interference: https://gpsjam.org
+
+## Tracking losses
+
+Russia: https://datastudio.google.com/reporting/dfbcec47-7b01-400e-ab21-de8eb98c8f3a/page/IzToC
+
+Russia: https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html
+
+Ukraine: https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-ukrainian.html
 
 
 ## Internet outages:
