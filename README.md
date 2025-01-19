@@ -32,6 +32,8 @@ Creamy caprice https://goo.gl/maps/4eum5C9giNDebgXf7
 
 UAControlMap: https://uacontrolmap.com/map-viewer/
 
+AMK Mapping: https://www.google.com/maps/d/u/0/viewer?&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k
+
 Lost_warinua: http://bit.ly/map_lostwarinua
 
 UAControlMap: https://google.com/maps/d/u/0/viewer?mid=1xPxgT8LtUjuspSOGHJc2VzA5O5jWMTE
