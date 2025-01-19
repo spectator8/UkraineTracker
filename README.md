@@ -32,6 +32,8 @@ Creamy caprice https://goo.gl/maps/4eum5C9giNDebgXf7
 
 UAControlMap: https://uacontrolmap.com/map-viewer/
 
+Lost_warinua: http://bit.ly/map_lostwarinua
+
 UAControlMap: https://google.com/maps/d/u/0/viewer?mid=1xPxgT8LtUjuspSOGHJc2VzA5O5jWMTE
 
 Military Summary project: https://militarysummary.com/#/map
