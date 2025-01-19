@@ -1,6 +1,6 @@
 # Ukraine Situation Tracker
 
-**Latest update: 14/01/2025**
+**Latest update: 19/01/2025**
 
 Links for tracking situation in Ukraine
 
@@ -27,6 +27,8 @@ Military Summary project - TG with daily YT posts: https://t.me/SvodkiFrontov
 Military Summary project YT: https://youtube.com/@militarysummary
 
 ## Maps
+
+Creamy caprice https://goo.gl/maps/4eum5C9giNDebgXf7
 
 UAControlMap: https://uacontrolmap.com/map-viewer/
 
