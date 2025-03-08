@@ -1,6 +1,6 @@
 # Ukraine Situation Tracker
 
-**Latest update: 01/03/2025**
+**Latest update: 08/03/2025**
 
 Links for tracking situation in Ukraine
 
@@ -27,6 +27,8 @@ Military Summary project - TG with daily YT posts: https://t.me/SvodkiFrontov
 Military Summary project YT: https://youtube.com/@militarysummary
 
 ## Maps
+
+Black Bird Group https://blackbirdgroup.fi/
 
 Divgen: https://divgen.ru/
 
