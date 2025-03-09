@@ -1,12 +1,10 @@
 # Ukraine Situation Tracker
 
-**Latest update: 09/03/2025**
+**Latest update: 09/03/2025 v1**
 
 Links for tracking situation in Ukraine
 
 ## Information streams
-
-Bellingcat news: https://ukraine.bellingcat.com/
 
 UA Armyinform: https://armyinform.com.ua/category/news/
 
@@ -37,6 +35,8 @@ CyberBoroshno: https://cyber-boroshno.com.ua/
 Creamy caprice: https://goo.gl/maps/4eum5C9giNDebgXf7
 
 Wararchive: https://map.wararchive.in.ua/
+
+Bellingcat: https://ukraine.bellingcat.com/
 
 UAControlMap: https://uacontrolmap.com/map-viewer/
 
