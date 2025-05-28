@@ -1,6 +1,6 @@
 # Ukraine Situation Tracker
 
-**Latest update: 09/03/2025 v1**
+**Latest update: 28/05/2025 **
 
 Links for tracking situation in Ukraine
 
@@ -15,6 +15,8 @@ Live news: https://start.me/p/lLBdE6/ukraine-crisis-tracker
 Live news: https://maphub.net/Cen4infoRes/russian-ukraine-monitor
 
 Companies in Russia tracker: https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
+
+Companies in Russia tracker: https://leave-russia.org/
 
 Info tracker: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
 
