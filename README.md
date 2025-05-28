@@ -1,6 +1,6 @@
 # Ukraine Situation Tracker
 
-**Latest update: 28/05/2025 **
+**Latest update: 28/05/2025**
 
 Links for tracking situation in Ukraine
 
